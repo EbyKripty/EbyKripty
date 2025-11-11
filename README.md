@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm EbyKripty
 
-<!--
-**EbyKripty/EbyKripty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Blockchain Contributor
 
-Here are some ideas to get you started:
+### ⚙️ Focus Areas  
+- ⚡ Decentralized technologies & Web3 ecosystems  
+- 🧩 Scalable and maintainable architecture  
+- 🔵 BASEEE 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌍 What Drives Me  
+- 🔧 working on git to like 4a.m.
+- 📘 Writing docs that *actually* help people build  
+- 🚀 Contributing to projects 
+
+### 🛠️ Tech Playground  
+`Solidity` · `Next.js` · `TypeScript` · `Node.js` · `EVM` · `Smart Contracts` · `IPFS` · 
+
+🌐 Always open to collaborations, code reviews, and good conversations about the decentralized web.  
+Let’s build something. ⚡
+
